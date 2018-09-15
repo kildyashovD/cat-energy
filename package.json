@@ -52,9 +52,13 @@
   },
   "dependencies": {
     "ajv": "^6.4.0",
+    "cryptiles": "^4.1.2",
     "cwebp": "^2.0.2",
     "del": "^3.0.0",
     "gulp-htmlmin": "^4.0.0",
+    "hoek": "^5.0.4",
+    "lodash": "^4.17.11",
+    "node-mime": "^1.0.0",
     "normalize.css": "^8.0.0",
     "npm": "^6.0.0",
     "pump": "^3.0.0"
